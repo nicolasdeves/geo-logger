@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">geo-logger</string>
+    <string name="location">Localização atual</string>
+    <string name="save">Salvar localização atual</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitutde">Longitude</string>
+    <string name="positions">Visualizar todas posições</string>
+
+
+</resources>
