@@ -66,10 +66,4 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 
         databaseManager.insertLocation(location.getLatitude(), location.getLongitude());
     }
-
-    public void openMap(View view) {
-        Intent intent = new Intent(MainActivity.this, MapsActivity.class);
-        startActivity(intent);
-    }
-
 }
